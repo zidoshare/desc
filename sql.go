@@ -1,4 +1,4 @@
-package sql
+package desc
 
 import (
 	"database/sql"
